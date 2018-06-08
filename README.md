@@ -2,7 +2,7 @@
 
 #### _HTML Exercise for Epicodus, 06/08/18_
 
-#### By _**Hassan Al-khalifha**_
+#### By _**Hassan Al-khalifah**_
 
 ## Description
 
@@ -17,7 +17,7 @@ _This is a blog about my female husky Mitsu which includes an additional blog ab
 
 _HTML_
 
-### Legal 
+### Legal
 
 Copyright (c) 2018 **_Hassan Al-khalifah_**
 *This software is licenced under the MIT lincense.*
