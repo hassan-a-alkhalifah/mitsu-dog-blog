@@ -1,0 +1,10 @@
+#goth_button {
+  cursor: pointer;
+}
+#goth_button:hover {
+  text-decoration: underline;
+}
+.goth-theme {
+  background-color: #111;
+  color: #FFF;
+}
